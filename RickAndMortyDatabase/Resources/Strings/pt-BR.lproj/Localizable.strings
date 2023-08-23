@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  RickMortyDatabase
+
+  Created by Fabio Augusto Resende on 15/08/23.
+  
+*/
+
+// Base
+"errorTitle" = "Erro";
+"ok" = "OK";
+"cancel" = "Cancelar";
+
+// Characters
+"charactersTitle" = "Personagens";
+
+// Character Filter
+"characterFilterTitle" = "Filtrar personagens";
+"characterFilterNamePlaceholder" = "Nome do personagem";
+"characterFilterStatusPlaceholder" = "Escolha um status para filtrar";
+"characterFilterClearButtonText" = "Limpar";
+"characterFilterApplyButtonText" = "Aplicar";
+
+// Character Detail
+"characterSpecies" = "Espécie:";
+"characterStatus" = "Status:";
+"characterStatusAlive" = "Vivo";
+"characterStatusDead" = "Morto";
+"characterStatusUnknown" = "Desconhecido";
+"characterGender" = "Gênero:";
+"characterGenderMale" = "Masculino";
+"characterGenderFemale" = "Feminino";
+"characterGenderGenderless" = "Agênero";
+"characterGenderUnknown" = "Desconhecido";
+"characterOrigin" = "Origem:";
+"characterLocation" = "Localização atual:";
